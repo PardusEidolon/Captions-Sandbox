@@ -1,0 +1,11 @@
+1 00: 00: 01,440 -&gt; 00: 00: 02,700 Không có lối thoát.
+
+2 00: 00: 03,750 -&gt; 00: 00: 05,160 Đừng bắt tôi tiêu diệt bạn.
+
+3 0: 00: 08,008 -&gt; 0: 00: 12,012 Luke, bạn chưa nhận ra tầm quan trọng của mình.
+
+4 0: 00: 12,012 -&gt; 00: 00: 16,680 bạn mới bắt đầu khám phá sức mạnh thực sự của mình, hãy tham gia cùng tôi.
+
+5 00: 00: 17,490 -&gt; 00: 00: 21,870 Và tôi sẽ cạnh tranh việc luyện tập của bạn với sức mạnh tổng hợp của chúng tôi.
+
+6 00: 00: 22,560 -&gt; 00: 00: 27,600 Chúng ta có thể chấm dứt cuộc xung đột hủy diệt này và mang lại trật tự cho thiên hà.
