@@ -7,11 +7,11 @@
 Mai hana ʻoe iaʻu e luku iā ʻoe.
 
 3
-0:00:08,008 --> 0:00:12,012 
+00:00:08,008 --> 0:00:12,012 
 Luke, ʻaʻole ʻoe i ʻike i kou koʻikoʻi.
 
 4
-0:00:12,012 --> 00:00:16,680 
+00:00:12,012 --> 00:00:16,680 
 ua hoʻomaka wale ʻoe e ʻike i kou mana maoli, e hui pū me aʻu.
 
 5
