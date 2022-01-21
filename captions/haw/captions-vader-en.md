@@ -1,11 +1,23 @@
-1 00:00:01,440 --&gt; 00:00:02,700 ʻAʻohe mea e pakele ai.
+1 
+00:00:01,440 --> 00:00:02,700
+ʻAʻohe mea e pakele ai.
 
-2 00:00:03,750 --&gt; 00:00:05,160 Mai hana ʻoe iaʻu e luku iā ʻoe.
+2
+00:00:03,750 --> 00:00:05,160
+Mai hana ʻoe iaʻu e luku iā ʻoe.
 
-3 0:00:08,008 --&gt; 0:00:12,012 Luke, ʻaʻole ʻoe i ʻike i kou koʻikoʻi.
+3
+0:00:08,008 --> 0:00:12,012 Luke,
+ʻaʻole ʻoe i ʻike i kou koʻikoʻi.
 
-4 0:00:12,012 --&gt; 00:00:16,680 ua hoʻomaka wale ʻoe e ʻike i kou mana maoli, e hui pū me aʻu.
+4
+0:00:12,012 --> 00:00:16,680 
+ua hoʻomaka wale ʻoe e ʻike i kou mana maoli, e hui pū me aʻu.
 
-5 00:00:17,490 --&gt; 00:00:21,870 A e hoʻokūkū au i kāu hoʻomaʻamaʻa me ko mākou ikaika hui.
+5
+00:00:17,490 --> 00:00:21,870 
+A e hoʻokūkū au i kāu hoʻomaʻamaʻa me ko mākou ikaika hui.
 
-6 00:00:22,560 --&gt; 00:00:27,600 Hiki iā mākou ke hoʻopau i kēia hakakā luku a hoʻoponopono i ka galaxy.
+6
+00:00:22,560 --> 00:00:27,600
+Hiki iā mākou ke hoʻopau i kēia hakakā luku a hoʻoponopono i ka galaxy.
